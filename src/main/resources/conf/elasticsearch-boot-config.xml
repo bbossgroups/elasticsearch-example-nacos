@@ -1,6 +1,6 @@
 <properties>
     <!--
-       指定apolloNamespace属性配置namespace
+       指定nacosNamespace属性配置namespace
        指定configChangeListener属性，设置elasticsearch节点自动发现监听器
     -->
 
