@@ -40,7 +40,7 @@ public class TestApollo {
 		ClientInterface clientInterface = ElasticSearchHelper.getRestClientUtil();
         
 
-		System.out.println(clientInterface.existIndice("demo"));
+		System.out.println(clientInterface.existIndice("demoqqqq"));
 		do {
 			try {
                 System.out.println(clientInterface.existIndice("demo"));
